@@ -11,7 +11,7 @@ This [vagrant](https://www.vagrantup.com/) environment configures a basic [Gogs]
 # Usage
 
 Deploy a new CentOS 7 VM in Virtualbox and 'gogs' docker container by running:
-    vagrant up
+> vagrant up
 
 Sign In into Gogs using the `administrator` username and `gogs` password at:
 
